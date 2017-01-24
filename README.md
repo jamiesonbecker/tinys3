@@ -1,6 +1,14 @@
 tinys3 - Quick and minimal S3 uploads for Python
 ------------------------------------------------
 
+# DEPRECATED
+
+This library is no longer maintained and has known security weaknesses. Due to lack of time, maintainer has stepped down. Please use the official Amazon library (boto) instead. If you fork and take over maintenance of this library, please issue a pull request to update this README with tinys3's new home.
+
+
+--
+
+
 [![Build Status](https://travis-ci.org/smore-inc/tinys3.png?branch=master)](https://travis-ci.org/smore-inc/tinys3)
 [![Crate Info](https://pypip.in/d/tinys3/badge.png)](https://crate.io/packages/tinys3/)
 
